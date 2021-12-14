@@ -1,0 +1,13 @@
+model-viewer {
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    margin-top: 1em;
+}
+
+.model {
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
